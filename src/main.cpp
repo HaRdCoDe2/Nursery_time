@@ -7,14 +7,8 @@
 using namespace std;
 
 
-
-
-
-
-
-
 // main function
-int main()
+int main(int argc , char* argv[])
 {
 	algos algo;
 	algo.input_data();
